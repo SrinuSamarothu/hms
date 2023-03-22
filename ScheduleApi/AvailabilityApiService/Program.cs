@@ -14,8 +14,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
-var conObj = builder.Configuration.GetConnectionString("ScheduleDB");
-builder.Services.AddDbContext<AvailabilityScheduleContext>(options => options.UseSqlServer(conObj));
+// var conObj = builder.Configuration.GetConnectionString("ScheduleDB");
+
+builder.Services.AddDbContext<AvailabilityScheduleContext>(options => options.UseSqlServer("Server=doctor-availability-server.database.windows.net,1433;Initial Catalog=AvailabilitySchedule;Persist Security Info=False;User ID=Srinu;Password=Doctor@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"));
 
 builder.Services.AddScoped<IRepo<DoctorSchedule>, Repo>();
 builder.Services.AddScoped<ILogic, Logic>();

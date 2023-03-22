@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2j8aFl4fshGhQBLtLrNLIJ+8XRPg17/FY8zBc8u0XDrlYkjN0wym8UtRhhjwN4HWoeZkeLV3sH7As0WbagvZCA==",
+  "dgSpecHash": "u7/sl5Mib0aRnfsglLZcPXvnJLuLFP8VqJ+zkAgNvnXheZLDa8DExGPCy2PH47IHP+7WQPXF47PsArmD22FaxA==",
   "success": true,
-  "projectFilePath": "C:\\Revature\\P1-Srinu-Samarothu\\Projects\\Project-2\\AvailabilityApiService\\AvailabilityApiService.csproj",
+  "projectFilePath": "C:\\Revature\\OwnRepo\\P1-Srinu-S\\ScheduleApi\\AvailabilityApiService\\AvailabilityApiService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cnu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Cnu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -38,6 +38,7 @@
     "C:\\Users\\Cnu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Cnu\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Cnu\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Cnu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\Cnu\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Cnu\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Cnu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",

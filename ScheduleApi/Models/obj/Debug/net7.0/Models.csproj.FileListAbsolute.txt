@@ -10,3 +10,15 @@ C:\Revature\P1-Srinu-Samarothu\Projects\Project-2\Models\obj\Debug\net7.0\Models
 C:\Revature\P1-Srinu-Samarothu\Projects\Project-2\Models\obj\Debug\net7.0\refint\Models.dll
 C:\Revature\P1-Srinu-Samarothu\Projects\Project-2\Models\obj\Debug\net7.0\Models.pdb
 C:\Revature\P1-Srinu-Samarothu\Projects\Project-2\Models\obj\Debug\net7.0\ref\Models.dll
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\bin\Debug\net7.0\Models.deps.json
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\bin\Debug\net7.0\Models.dll
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\bin\Debug\net7.0\Models.pdb
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\obj\Debug\net7.0\Models.csproj.AssemblyReference.cache
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\obj\Debug\net7.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\obj\Debug\net7.0\Models.AssemblyInfoInputs.cache
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\obj\Debug\net7.0\Models.AssemblyInfo.cs
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\obj\Debug\net7.0\Models.csproj.CoreCompileInputs.cache
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\obj\Debug\net7.0\Models.dll
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\obj\Debug\net7.0\refint\Models.dll
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\obj\Debug\net7.0\Models.pdb
+C:\Revature\OwnRepo\P1-Srinu-S\ScheduleApi\Models\obj\Debug\net7.0\ref\Models.dll
